@@ -1,0 +1,2 @@
+# lnaddress
+Federated Lightening Address
